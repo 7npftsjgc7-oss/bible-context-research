@@ -1,0 +1,20 @@
+{
+  "name": "bible-context-research",
+  "interface": {
+    "displayName": "Bible Context Research"
+  },
+  "plugins": [
+    {
+      "name": "bible-context-research",
+      "source": {
+        "source": "local",
+        "path": "./plugins/bible-context-research"
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Education"
+    }
+  ]
+}
