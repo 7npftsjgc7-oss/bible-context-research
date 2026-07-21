@@ -1,0 +1,7 @@
+interface:
+  display_name: Bible Context Research
+  short_description: Explore Bible passages in their ancient context
+  default_prompt: Use $research-bible-context to give me a reading companion for
+    Leviticus 1 using CSB wording.
+policy:
+  allow_implicit_invocation: true
