@@ -14,7 +14,7 @@ Examples:
 
 ## Install from this marketplace
 
-Clone this repository, then add its root as a Codex plugin marketplace:
+Add this GitHub repository as a Codex plugin marketplace:
 
 ```bash
 codex plugin marketplace add 7npftsjgc7-oss/bible-context-research
