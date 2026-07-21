@@ -17,8 +17,8 @@ Examples:
 Clone this repository, then add its root as a Codex plugin marketplace:
 
 ```bash
-codex plugin marketplace add /absolute/path/to/bible-context-research
-codex plugin install bible-context-research@bible-context-research
+codex plugin marketplace add 7npftsjgc7-oss/bible-context-research
+codex plugin add bible-context-research@bible-context-research
 ```
 
 Restart Codex or begin a new conversation after installation so the skill is discovered.
