@@ -1,0 +1,32 @@
+{
+  "name": "bible-context-research",
+  "version": "0.1.0",
+  "description": "Historically grounded, denominationally neutral context for biblical books, passages, terms, and themes.",
+  "author": {
+    "name": "Jason Ridgeway"
+  },
+  "license": "MIT",
+  "keywords": [
+    "bible",
+    "biblical-studies",
+    "history",
+    "context",
+    "research"
+  ],
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Bible Context Research",
+    "shortDescription": "Explore Scripture in its ancient context.",
+    "longDescription": "Research historical, cultural, political, geographical, literary, linguistic, audience, dating, authorship, and ancient comparative context without imposing doctrinal conclusions.",
+    "developerName": "Jason Ridgeway",
+    "category": "Education",
+    "capabilities": [
+      "Research"
+    ],
+    "defaultPrompt": [
+      "Give me a reading companion for Numbers 1.",
+      "Show me the Bible Context Research menu.",
+      "Trace the firstborn theme through Scripture."
+    ]
+  }
+}
