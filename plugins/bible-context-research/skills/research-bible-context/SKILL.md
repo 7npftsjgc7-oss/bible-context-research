@@ -152,6 +152,13 @@ End non-menu research with `If you want to go deeper`, tailored to the request:
 - Full report or major debate: recommend up to three inspected scholarly readings, each with a one-line reason.
 - Sequential study: include the next logical chapter or section among the options.
 
+Make follow-up choices actionable:
+
+- Write two or three short, self-contained prompt strings, such as `10 — Examine ḥērem in Deuteronomy 7`, `16 — Trace “chosen people” through Scripture`, and `17 — Deuteronomy 8`.
+- When the current interface exposes a tappable single-select input widget, place it after the completed answer with the question `Where would you like to go next?`, those prompt strings as its options, and `Enter another passage or mode` as the free-text placeholder. Do not duplicate the same choices as bullets. End the turn after the widget.
+- When no interactive choice widget is available, show the prompt strings as the existing compact list under `If you want to go deeper`.
+- Do not imitate prompt controls with Markdown links or raw HTML. Use a link only when it has a real destination, such as an inspected source.
+
 ## Show the menu
 
 When the user says `Show me the menu`, output only this menu and the closing line:
