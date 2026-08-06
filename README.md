@@ -12,6 +12,16 @@ Examples:
 - `16 - Trace the firstborn theme through Scripture.`
 - `Show me the menu.`
 
+## Original-language pronunciation
+
+When Hebrew, Aramaic, or Greek materially improves a study, the skill can provide the original script, transliteration, concise written pronunciation, contextual meaning, and a verified Blue Letter Bible Strong's pronunciation link.
+
+Native inline pronunciation controls are used only when the current environment supports them. Written guidance and the verified BLB link remain the fallback. The skill also distinguishes lexical links from multiword expressions, identifies relevant pronunciation traditions and uncertainty, and distinguishes יהוה (`YHWH`) from the traditional reading `Adonai`.
+
+## Synchronization
+
+The merged `main` branch is authoritative. Installed skills, Custom GPT instructions, ChatGPT project copies, and other downstream integrations do not update automatically and should be checked after repository changes.
+
 ## Install from this marketplace
 
 Add this GitHub repository as a Codex plugin marketplace:
