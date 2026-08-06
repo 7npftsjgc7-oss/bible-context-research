@@ -1,5 +1,7 @@
 # Source policy
 
+Read [pronunciation-audio.md](pronunciation-audio.md) whenever a response introduces Hebrew, Aramaic, or Greek, discusses pronunciation, or provides pronunciation audio.
+
 ## Preferred evidence
 
 Use the strongest available source for each claim:
